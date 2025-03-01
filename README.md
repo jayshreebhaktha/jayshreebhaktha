@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayshree</h1>
 <h3 align="center">A passionate SDET from Bangalore, India</h3>
 
-- 🔭 I’m current role **Senior SDET at Pinelabs**
+- 🔭 current role **Senior SDET at Pinelabs**
 
 - 🌱 I’m currently learning **selenium - java, selenium - c#, cypress, Playwright**
 
